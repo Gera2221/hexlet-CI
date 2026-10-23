@@ -1,3 +1,3 @@
 say-hello:
-	ptint('Hello, World!')
-			
+	print('Hello, World!')
+
